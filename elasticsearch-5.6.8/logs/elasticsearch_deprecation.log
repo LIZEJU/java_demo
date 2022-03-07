@@ -1,0 +1,11 @@
+[2022-03-07T18:58:16,231][WARN ][o.e.d.r.a.a.i.RestAnalyzeAction] text request parameter is deprecated and will be removed in the next major release. Please use the JSON in the request body instead request param
+[2022-03-07T18:58:16,232][WARN ][o.e.d.r.a.a.i.RestAnalyzeAction] analyzer request parameter is deprecated and will be removed in the next major release. Please use the JSON in the request body instead request param
+[2022-03-07T19:16:57,844][WARN ][o.e.d.i.m.TypeParsers    ] Expected a boolean [true/false] for property [index] but got [not_analyzed]
+[2022-03-07T19:17:29,431][WARN ][o.e.d.i.m.TypeParsers    ] Expected a boolean [true/false] for property [index] but got [not_analyzed]
+[2022-03-07T19:19:05,087][WARN ][o.e.d.i.m.TypeParsers    ] Expected a boolean [true/false] for property [index] but got [not_analyzed]
+[2022-03-07T22:02:26,913][WARN ][o.e.d.i.m.TypeParsers    ] Expected a boolean [true/false] for property [index] but got [not_analyzed]
+[2022-03-07T22:04:07,068][WARN ][o.e.d.i.m.TypeParsers    ] Expected a boolean [true/false] for property [index] but got [not_analyzed]
+[2022-03-07T22:04:32,894][WARN ][o.e.d.i.m.TypeParsers    ] Expected a boolean [true/false] for property [index] but got [not_analyzed]
+[2022-03-07T22:04:49,641][WARN ][o.e.d.i.m.TypeParsers    ] Expected a boolean [true/false] for property [index] but got [not_analyzed]
+[2022-03-07T22:05:04,644][WARN ][o.e.d.i.m.TypeParsers    ] Expected a boolean [true/false] for property [index] but got [not_analyzed]
+[2022-03-07T22:09:25,963][WARN ][o.e.d.i.m.TypeParsers    ] Expected a boolean [true/false] for property [index] but got [not_analyzed]
